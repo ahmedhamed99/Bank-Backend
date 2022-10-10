@@ -2,7 +2,8 @@ import fs from "fs";
 import Client from "../database/database";
 
 async function generateDummyData(){
-    const dataSql = fs.readFileSync(__dirname+"\\dummydata.sql").toString();
+    const dataSql = fs.readFileSync(__dirname+"/"+"dummydata.sql").toString();
+
     const conn = await Client.connect();
     const dataArr = dataSql.toString().split("\r\n");
     dataArr.forEach(async(sql)=>{
