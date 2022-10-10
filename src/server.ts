@@ -17,7 +17,6 @@ customerRoutes(app);
 transactionRoutes(app);
 
 app.listen(8000,()=>{
-    console.log(`starting app on: ${address}`);
 });
 
 export default app;
