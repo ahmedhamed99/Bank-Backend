@@ -6,7 +6,6 @@ import cors from "cors";
 import foundCustomers from "./services/foundCustomers";
 
 const app: express.Application = express();
-const address: string = "http://127.0.0.1:8000/";
 
 foundCustomers();
 
