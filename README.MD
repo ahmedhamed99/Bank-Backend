@@ -7,12 +7,12 @@ a task for **TSF GRIP**:
 
 Link Of The Website:
 
-[https://grip-bank.vercel.app/]("https://grip-bank.vercel.app/")
+[https://grip-bank.vercel.app/](https://grip-bank.vercel.app/)
 
 
 Link Of The Internship:
 
-[https://internship.thesparksfoundation.info/#steps-to-apply]("https://internship.thesparksfoundation.info/#steps-to-apply")
+[https://internship.thesparksfoundation.info/#steps-to-apply](https://internship.thesparksfoundation.info/#steps-to-apply)
 
 
 ## Task Requirements
